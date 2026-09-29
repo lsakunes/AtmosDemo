@@ -1,6 +1,9 @@
 # AtmosDemo
 Template code for the 2026 HSL raytracing Dawg Daze event
 
+
+email senuka@uw.edu with any questions
+
 # Setup
 WSL 2 recommended 
 
