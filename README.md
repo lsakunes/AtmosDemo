@@ -19,6 +19,10 @@ pip install pillow
 output.png will be considered for physics and accuracy  
 debug.png will be considered for artwork
 
+demo.py handles parallelization and image generation, while atmos.py handles math for one ray of light at a time.
+
+# Grading
+You may submit math, code, or art, and you will be judged on creativity and innovation. Novel ideas are highly valued, but so are thoroughness and clean implementation. Focus on your strengths as FOUND is looking for a variety of talents.
+
 # Submission
-Sep 28th submissions: https://docs.google.com/forms/d/e/1FAIpQLSfw_b8JfjH_zkZWS_wRA3CNh1bpssZlckjyY5eaup9lfFc7Kg/viewform?usp=dialog
-Oct 1st submissions: TBD
+Oct 1st submissions: https://docs.google.com/forms/d/e/1FAIpQLSeusvBW3bQ6Zwt6bzjv8yc8dSQgIocUElTcY7GqbULa51VRLg/viewform?usp=dialog
